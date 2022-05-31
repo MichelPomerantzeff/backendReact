@@ -13,6 +13,34 @@
       "price": "859,00",
       "link": "https://www.amazon.es/dp/B09V4KBWPL/ref=sr_1_1_sspa?keywords=iPhone%2B13&qid=1654008486&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUFYS0w1TzEzN1YyMkkmZW5jcnlwdGVkSWQ9QTAzMjM0MDgxR0U3TlY3UjZBUjlIJmVuY3J5cHRlZEFkSWQ9QTAwMzUyNTgxUjZEU0pFRDNHUDhYJndpZGdldE5hbWU9c3BfYXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ&th=1",
       "id": 2
+    },
+    {
+      "item": "Samsung Galaxy S22 5G Telemóvel 128 GB SIM grátis Android Smartphone Phantom preto",
+      "store": "Amazon",
+      "price": "709,00",
+      "link": "https://www.amazon.es/-/pt/dp/B09NRRVPZ7/ref=sr_1_2?keywords=samsung+galaxy+s22&qid=1654035415&sprefix=samsung+galaxy+s%2Caps%2C92&sr=8-2",
+      "id": 3
+    },
+    {
+      "item": "Smartphone Samsung Galaxy S22 5G 6.1\" 8GB/128GB Dual SIM Preto",
+      "store": "PC Diga",
+      "price": "879,90",
+      "link": "https://www.pcdiga.com/smartphone-samsung-galaxy-s22-5g-6-1-8gb-128gb-dual-sim-preto-sm-s901bzkdeub?search=samsung%20galaxy%20s22",
+      "id": 4
+    },
+    {
+      "item": "Smartphone XIAOMI 12 Pro (6.73\" - 12 GB - 256 GB - Azul)",
+      "store": "Worten",
+      "price": "882,90",
+      "link": "https://www.worten.pt/telemoveis-e-pacotes-tv/telemoveis-e-smartphones/xiaomi/smartphone-xiaomi-12-pro-6-73-12-gb-256-gb-azul-MRKEAN-6934177762918?gclid=Cj0KCQjw-daUBhCIARIsALbkjSZ9M1MDu3GPKY71IO-eA6fhTHhtiWHkA1ZUMvHAemuaNUgM_eKAPqEaAkISEALw_wcB",
+      "id": 5
+    },
+    {
+      "item": "Xiaomi 12 Pro 5G 6.73'' Dual Sim 8GB/256GB Grey",
+      "store": "Kuanto Kusta",
+      "price": "869,90",
+      "link": "https://www.kuantokusta.pt/p/7854599/xiaomi-12-pro-5g-673-dual-sim-8gb256gb-grey?gclid=Cj0KCQjw-daUBhCIARIsALbkjSb9CTVi6bggSngLC2tVoyGk0PB4YIBILTydUoV7-EkaUk_N490yjzoaAqWMEALw_wcB",
+      "id": 6
     }
   ]
 }
